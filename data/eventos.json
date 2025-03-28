@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "descricao": "Conferência de Tecnologia",
+        "data": "2025-04-15",
+        "link": "https://techconf.com",
+        "extra": "Evento com palestrantes internacionais sobre inovação tecnológica."
+    },
+    {
+        "id": 2,
+        "descricao": "Workshop de Programação",
+        "data": "2025-05-10",
+        "link": "https://workshopdev.com",
+        "extra": "Aprenda a desenvolver aplicações do zero com os melhores instrutores."
+    }
+]
